@@ -1,4 +1,4 @@
-#Portfolio - IC 🗃️
+# Portfolio - IC 🗃️
 Este é o meu primeiro portfolio, nele contem algumas de minhas redes como github, linkedin e o instagram do meu jogo em desenvolvimento.
 Tambem fiz uma descrição das tecnologias que uso em meus projetos como unity, python, Arduino e JavaScript.
 Por ultimo mostrei um pouco dos meu projetos em andamento dando uma decrição breve e com fotos.
